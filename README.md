@@ -1,10 +1,10 @@
 # Data-Science-Portfolio
 Hello,
-I am curios Data science enthusiast. It's a repository of the projects I worked on or currently working on.  The projects are written Python (Jupyter Notebook). Click on the projects to see full analysis and code.
+I am curios Data science enthusiast. It's a repository of the projects I worked on or currently working on.  The projects are written Python (Jupyter Notebook). 
 
 Please contact me on Linkedin if you are looking to hire analyst.
 
-## contents
+## Contents
 ### Notes on python 
 These notes are for beginners for practicing python codes 
 ### Micro Projects on python 
