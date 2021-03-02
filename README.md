@@ -20,3 +20,6 @@ Predicting the price of houses using regression.
 Twitter sentiment Analysis -classify racist or sexist tweets from other tweets using NLTK library, TFIDF table and Random forest algorithm.
 ### Exploratory data Analysis on IPL Data 
 Performing Exploratory data analysis on data of IPL matches from 2008 to 2019 using pandas and matplotlib 
+### Boosting
+#### Prediction for purchase of health insurance 
+Predicting on the basis of past records whether the person will buy health insurance or not using XG boost algrithm 
