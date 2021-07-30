@@ -16,7 +16,7 @@ Determine which factors keep employees at company and which prompt others to lea
 Predicting the salary of employees on the basis of past year records. 
 #### ML with Linear regression on house pricing case study
 Predicting the price of houses using regression. 
-## Natural Language Processing 
+### Natural Language Processing 
 Twitter sentiment Analysis -classify racist or sexist tweets from other tweets using NLTK library, TFIDF table and Random forest algorithm.
 ### Exploratory data Analysis on IPL Data 
 Performing Exploratory data analysis on data of IPL matches from 2008 to 2019 using pandas and matplotlib 
