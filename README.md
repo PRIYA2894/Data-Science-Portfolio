@@ -23,3 +23,6 @@ Performing Exploratory data analysis on data of IPL matches from 2008 to 2019 us
 ### Boosting
 #### Prediction for purchase of health insurance 
 Predicting on the basis of past records whether the person will buy health insurance or not using XG boost algrithm 
+
+#### Diabetes patients readmission in US 
+Predicting on the basis of past records whether the diabetic patient will be readmitted in next 30 days- using XG boost algrithm 
