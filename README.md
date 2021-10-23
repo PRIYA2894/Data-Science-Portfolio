@@ -5,8 +5,6 @@ I am curios Data science enthusiast. It's a repository of the projects I worked 
 Please contact me on Linkedin if you are looking to hire analyst.
 
 ## Contents
-### Notes on python 
-These notes are for beginners for practicing python codes 
 ### Micro Projects on python 
 #### ML with logistic Regression on Analysis of car insurance case
 Predicting  for 1000 customers who were contacted during the current campaign, whether they will buy car insurance or not.
